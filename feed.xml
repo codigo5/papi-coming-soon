@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pap Rações - em breve estaremos no ar - Código5 Web</title>
+    <description></description>
+    <link>http://www.pap.ind.br/</link>
+    <atom:link href="http://www.pap.ind.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 May 2018 09:09:02 -0400</pubDate>
+    <lastBuildDate>Thu, 24 May 2018 09:09:02 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+  </channel>
+</rss>
